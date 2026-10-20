@@ -10,4 +10,4 @@ Nombre del alumno.
 - Crear un repositorio local.
 - Conectarlo con GitHub.
 - Registrar commits.
-- Enviar cambios con push.
+- Enviar cambios con push,
